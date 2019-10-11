@@ -2,7 +2,7 @@
 
 /** @var \Illuminate\Database\Eloquent\Factory $factory */
 
-use App\fskes;
+use app\fskes;
 use Illuminate\Support\Str;
 use Faker\Generator as Faker;
 
@@ -17,7 +17,7 @@ use Faker\Generator as Faker;
 |
 */
 
-$factory->define(Note::class, function (Faker $faker) {
+$factory->define(fskes::class, function (Faker $faker) {
   return [
     'title' => $faker->sentence($nbWords = 6, $variableNbWords = true),  // Random task title
     'description' => $faker->text(), // Random task description
