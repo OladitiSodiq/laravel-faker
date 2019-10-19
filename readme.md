@@ -12,3 +12,4 @@ Let's imagine if someone needs to  work on a large application	and on various mo
 
 In this tutorial, you will learn how to generate fake data into the database tables using laravel faker from scratch tutorial with example.
 
+<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
