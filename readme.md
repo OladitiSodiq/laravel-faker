@@ -35,7 +35,7 @@ This is the first step in every laravel project i.e downloading the fresh larave
 <h4>Setup Database Credential</h4>
 After successfull installation of  the latest version for laravel app, Go to your project .env file and set up database credential 
 
-<p align="left"><img src="faker/env.jpg" width="20"></p>
+<p align="left"><img src="faker/faker/env.jpg" width="20"></p>
 
 <pre><code>
  DB_CONNECTION=mysql 
